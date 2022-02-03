@@ -2,7 +2,7 @@
 
 In this project, we __import, clean and do statistical analysis and visualizations__ of Chile's earthquake data from 
 [Centro Sismológico Nacional](https://www.csn.uchile.cl) (CSN). 
-We use two main datasets: Chile's major earthquakes (with magnitude grater thatn 7) and Chile's significant earthquake events (with magnitude greater or equal than 3).
+We use two main datasets: Chile's major earthquakes (with magnitude greater than 7) and Chile's significant earthquake events (with magnitude greater or equal than 3).
 
 To run it locally, make sure to do the following:
 
