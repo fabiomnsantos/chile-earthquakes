@@ -10,4 +10,4 @@ To run it locally, make sure to do the following:
 - pip install -r requirements.txt
 - Open the notebooks in JupyterLab
 
-See also the `chile-major-earthquakes.ipynb` at [nbviewer.org](http://nbviewer.org/github/fabiomnsantos/chile-earthquakes/blob/main/chile-earthquakes-analysis.ipynb) to display the interactive map.
+See also the `chile-major-earthquakes.ipynb` at [nbviewer.org](http://nbviewer.org/github/fabiomnsantos/chile-earthquakes/blob/main/chile-major-earthquakes.ipynb) to display the interactive map.
